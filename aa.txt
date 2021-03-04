@@ -8,3 +8,4 @@
 ;Boot Sectors Scanned    : None
 ;Issues to be fixed      : None
 ;================ End of Scanner Results ==================
+new line added
